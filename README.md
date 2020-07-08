@@ -14,26 +14,26 @@ You will also see any lint errors in the console.
 
 ### Rotas
 
-Home
+**Home**
 
-**/home -> /**
+/home -> /
 
-**/cards**
+/cards
 
-**/extract**
+/extract
 
-My Account
+**My Account**
 
-**/myaccount -> /**
+/myaccount -> /
 
-**/company**
+/company
 
-**/security**
+/security
 
-**/changeaccount**
+/changeaccount
 
-**/settings**
+/settings
 
-**/help**
+/help
 
-**/useterms**
+/useterms
